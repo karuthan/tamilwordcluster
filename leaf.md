@@ -22,7 +22,7 @@
  }
 }
 }%%
-flowchart BT    
+flowchart LR    
  Question{{"எல்லா தாவர இலைக்கும் பெயர் இலையா?"}} --> leaf["இலை"] 
  Question --> oolai["ஓலை"]
  Question --> thalai["தழை"]  
